@@ -1,2 +1,1 @@
-# weblogic
-Chef-weblogic-Install
+# Oracle WebLogic Chef Cookbook
